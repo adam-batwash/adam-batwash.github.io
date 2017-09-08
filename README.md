@@ -1,1 +1,3 @@
-serve a simple html page
+serve an html page
+
+go to https://adam-batwash.github.io/
